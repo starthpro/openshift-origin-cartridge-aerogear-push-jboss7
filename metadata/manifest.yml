@@ -3,6 +3,7 @@ Cartridge-Short-Name: AEROGEAR_PUSH
 Display-Name: AeroGear Unified Push Server 1.0.2 on JBoss
 Description: "Provides the AeroGear UnifiedPush Server, a server that allows sending push notifications to different mobile platforms, and the AeroGear SimplePush Server, an implementation of Mozilla's SimplePush Protocol. Runs on JBoss Application Server 7."
 Version: 1.0.2
+Source-Url: https://github.com/starthpro/openshift-origin-cartridge-aerogear-push-jboss7.git
 License: "ASL 2.0"
 License-Url: http://www.apache.org/licenses/LICENSE-2.0.txt
 Vendor: AeroGear
